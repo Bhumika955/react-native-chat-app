@@ -168,3 +168,4 @@ See typing indicators, online/offline status, and message delivery/read ticks
 Contributing
 
 Feel free to open issues, submit pull requests, or suggest improvements.
+<video controls src="demo video.mp4" title="Title"></video>
